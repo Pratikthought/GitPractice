@@ -2,6 +2,7 @@ package orangeHRM.library;
 
 import org.openqa.selenium.By;
 
+
 import utills.AppUtills;
 
 public class LoginPage extends AppUtills {
@@ -26,5 +27,11 @@ public class LoginPage extends AppUtills {
 	public void lgout() {
 		driver.findElement(By.id("Welcome")).click();
 		driver.findElement(By.linkText("Logout")).click();
+	}
+	
+	
+	public void githubTest() {
+		System.out.println("Test 1");
+		System.out.println("Test 2");
 	}
 }
