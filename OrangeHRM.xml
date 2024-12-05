@@ -1,0 +1,11 @@
+<suite name="Admin Login suite">
+<test name="Admin login test with valid data">
+<parameter name="userid" value="Admin"></parameter>
+<parameter name="password" value="Qedge123!@#"></parameter>
+<classes>
+<class name="orangeHRM.testcases.AdminLoginWithValidData"></class>
+</classes>
+
+</test>
+
+</suite>
