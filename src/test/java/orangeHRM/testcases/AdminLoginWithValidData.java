@@ -21,7 +21,15 @@ public class AdminLoginWithValidData extends AppUtills{
 		logpage.login(uid, Pwd);
 		Assert.assertTrue(logpage.isAdminModuleDisplayed());
 		logpage.lgout();
-		
-		
+		}
+	
+	
+	public void newMethod() {
+		System.out.println("Checking");
+		System.out.println("Checking 123");
 	}
+	
+	
+	
+	
 }
