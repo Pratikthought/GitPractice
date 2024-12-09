@@ -1,8 +1,6 @@
 package orangeHRM.library;
 
+public class Demo1 {
 
 
-public class Demo {
-
-	
 }
