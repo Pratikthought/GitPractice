@@ -8,4 +8,12 @@ public class Merge {
 	public void m1() {
 		
 	}
+	
+	@Test
+	public void m2() {
+		
+	}
+	
+	
+	
 }
