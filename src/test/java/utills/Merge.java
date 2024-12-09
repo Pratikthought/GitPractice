@@ -14,6 +14,10 @@ public class Merge {
 		
 	}
 	
+	@Test
+	public void m3() {
+		
+	}
 	
 	
 }
